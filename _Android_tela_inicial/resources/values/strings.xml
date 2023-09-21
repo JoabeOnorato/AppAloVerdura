@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- tela_inicial strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="acesse_sua_conta__string">Acesse sua conta.</string>
+	<string name="e_mail_string">E-mail</string>
+	<string name="senha_string">Senha</string>
+	<string name="acessar_string">Acessar</string>
+	<string name="ainda_n_o_tem_uma_conta__crie_agora__string">Ainda no tem uma conta? Crie agora.</string>
+</resources>

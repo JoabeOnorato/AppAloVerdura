@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- cadastro_2 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="criar_nova_conta__string">Criar nova conta.</string>
+	<string name="bairro_string">Bairro</string>
+	<string name="cep_string">CEP</string>
+	<string name="endere_o_string">Endereo</string>
+	<string name="passo_2_de_2_string">Passo 2 de 2</string>
+	<string name="cidade_string">Cidade</string>
+	<string name="uf_string">UF</string>
+	<string name="criar_minha_conta_string">Criar minha conta</string>
+	<string name="j__tenho_uma_conta__string">J tenho uma conta.</string>
+</resources>

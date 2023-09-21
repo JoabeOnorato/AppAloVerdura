@@ -1,0 +1,44 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		tela_de_carregamento
+	 *	@date 		Thursday 21st of September 2023 01:45:05 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/tela_de_carregamento" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<View   android:id="@+id/_bg__tela_de_carregamento"
+				android:background="@drawable/_bg__tela_de_carregamento_shape"
+				 android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="360dp"
+				android:layout_height="800dp" />
+
+			<ImageView android:id="@+id/al__verduras_2_photoroom_1"
+				android:src="@drawable/al__verduras_2_photoroom_1"
+				android:contentDescription="al__verduras_2_photoroom_1"
+				 android:layout_marginStart="56dp"
+				android:layout_marginTop="301dp"
+				android:layout_width="268dp"
+				android:layout_height="197dp" />
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

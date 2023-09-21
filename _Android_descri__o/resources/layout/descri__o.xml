@@ -1,0 +1,139 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		descri__o
+	 *	@date 		Thursday 21st of September 2023 01:24:25 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/descri__o" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<View   android:id="@+id/_bg__descri__o"
+				android:background="@drawable/_bg__descri__o_shape"
+				 android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="360dp"
+				android:layout_height="800dp" />
+
+			<TextView android:id="@+id/_500g"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/_500g_color"
+				android:layout_marginLeft="87dp"
+				android:layout_marginTop="320dp"
+				android:layout_width="77.8dp"
+				android:layout_height="25.8dp"
+				android:text="@string/_500g_string"
+				 />
+
+			<TextView android:id="@+id/r__15_00"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/r__15_00_color"
+				android:layout_marginLeft="210dp"
+				android:layout_marginTop="321dp"
+				android:layout_width="91.8dp"
+				android:layout_height="24.8dp"
+				android:text="@string/r__15_00_string"
+				 />
+
+			<TextView android:id="@+id/tomate_picado"
+				android:fontFamily="Roboto"
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="18sp"
+				android:textColor="@color/tomate_picado_color"
+				android:layout_marginLeft="3dp"
+				android:layout_marginTop="288dp"
+				android:layout_width="354dp"
+				android:layout_height="52.8dp"
+				android:text="@string/tomate_picado_string"
+				 />
+
+			<ImageView android:id="@+id/menu_1"
+				android:src="@drawable/menu_1"
+				android:contentDescription="menu_1"
+				 android:layout_marginStart="13dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="44dp"
+				android:layout_height="49dp" />
+
+			<View   android:id="@+id/line_4"
+				android:background="@drawable/line_4_shape"
+				 android:layout_marginStart="6dp"
+				android:layout_marginTop="688dp"
+				android:layout_width="347dp"
+				android:layout_height="1dp" />
+
+			<ImageView android:id="@+id/menos_1"
+				android:src="@drawable/menos_1"
+				android:contentDescription="menos_1"
+				 android:layout_marginStart="19dp"
+				android:layout_marginTop="701dp"
+				android:layout_width="50dp"
+				android:layout_height="55dp" />
+
+			<ImageView android:id="@+id/menos_2"
+				android:src="@drawable/menos_2"
+				android:contentDescription="menos_2"
+				 android:layout_marginStart="86dp"
+				android:layout_marginTop="701dp"
+				android:layout_width="50dp"
+				android:layout_height="55dp" />
+
+			<View   android:id="@+id/rectangle_18"
+				android:background="@drawable/rectangle_18_shape"
+				 android:layout_marginStart="156dp"
+				android:layout_marginTop="705dp"
+				android:layout_width="197dp"
+				android:layout_height="51dp" />
+
+			<TextView android:id="@+id/adicionar_ao_carrinho"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/_bg__descri__o_color"
+				android:layout_marginLeft="174dp"
+				android:layout_marginTop="718dp"
+				android:layout_width="188.8dp"
+				android:layout_height="26.8dp"
+				android:text="@string/adicionar_ao_carrinho_string"
+				 />
+
+			<ImageView android:id="@+id/sem_t_tulo_2"
+				android:src="@drawable/sem_t_tulo_2"
+				android:contentDescription="sem_t_tulo_2"
+				 android:layout_marginStart="69dp"
+				android:layout_marginTop="101dp"
+				android:layout_width="209dp"
+				android:layout_height="159dp" />
+
+			<TextView android:id="@+id/nossos_tomates_s_o_cultivados_localmente_e_colhidos_no_auge_da_maturidade_para_garantir_sabor_e_frescor__perfeitos_para_saladas__molhos_e_guarni__es_"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/_500g_color"
+				android:layout_marginLeft="44dp"
+				android:layout_marginTop="401dp"
+				android:layout_width="290.8dp"
+				android:layout_height="125.8dp"
+				android:text="@string/nossos_tomates_s_o_cultivados_localmente_e_colhidos_no_auge_da_maturidade_para_garantir_sabor_e_frescor__perfeitos_para_saladas__molhos_e_guarni__es__string"
+				 />
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

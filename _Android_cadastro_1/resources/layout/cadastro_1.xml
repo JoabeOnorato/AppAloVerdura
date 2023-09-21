@@ -1,0 +1,149 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		cadastro_1
+	 *	@date 		Thursday 21st of September 2023 01:23:02 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/cadastro_1" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<View   android:id="@+id/_bg__cadastro_1"
+				android:background="@drawable/_bg__cadastro_1_shape"
+				 android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="360dp"
+				android:layout_height="800dp" />
+
+			<ImageView android:id="@+id/tomate_1"
+				android:src="@drawable/tomate_1"
+				android:contentDescription="tomate_1"
+				 android:layout_marginStart="26dp"
+				android:layout_marginTop="6dp"
+				android:layout_width="297dp"
+				android:layout_height="50dp" />
+
+			<TextView android:id="@+id/criar_nova_conta_"
+				android:fontFamily="Roboto"
+				android:textSize="22sp"
+				android:textColor="@color/criar_nova_conta__color"
+				android:layout_marginLeft="92dp"
+				android:layout_marginTop="169dp"
+				android:layout_width="184.2dp"
+				android:layout_height="32.2dp"
+				android:text="@string/criar_nova_conta__string"
+				 />
+
+			<View   android:id="@+id/rectangle_11"
+				android:background="@drawable/rectangle_11_shape"
+				 android:layout_marginStart="22dp"
+				android:layout_marginTop="382dp"
+				android:layout_width="307dp"
+				android:layout_height="53dp" />
+
+			<TextView android:id="@+id/e_mail"
+				android:fontFamily="Roboto"
+				android:textSize="20sp"
+				android:textColor="@color/e_mail_color"
+				android:layout_marginLeft="38dp"
+				android:layout_marginTop="399dp"
+				android:layout_width="73dp"
+				android:layout_height="29dp"
+				android:text="@string/e_mail_string"
+				 />
+
+			<View   android:id="@+id/rectangle_13"
+				android:background="@drawable/rectangle_13_shape"
+				 android:layout_marginStart="21dp"
+				android:layout_marginTop="303dp"
+				android:layout_width="307dp"
+				android:layout_height="53dp" />
+
+			<TextView android:id="@+id/nome"
+				android:fontFamily="Roboto"
+				android:textSize="20sp"
+				android:textColor="@color/e_mail_color"
+				android:layout_marginLeft="37dp"
+				android:layout_marginTop="320dp"
+				android:layout_width="71dp"
+				android:layout_height="29dp"
+				android:text="@string/nome_string"
+				 />
+
+			<TextView android:id="@+id/passo_1_de_2"
+				android:fontFamily="Roboto"
+				android:textSize="16sp"
+				android:textColor="@color/e_mail_color"
+				android:layout_marginLeft="129dp"
+				android:layout_marginTop="206dp"
+				android:layout_width="106.6dp"
+				android:layout_height="23.6dp"
+				android:text="@string/passo_1_de_2_string"
+				 />
+
+			<View   android:id="@+id/rectangle_14"
+				android:background="@drawable/rectangle_14_shape"
+				 android:layout_marginStart="21dp"
+				android:layout_marginTop="461dp"
+				android:layout_width="307dp"
+				android:layout_height="53dp" />
+
+			<TextView android:id="@+id/senha"
+				android:fontFamily="Roboto"
+				android:textSize="20sp"
+				android:textColor="@color/e_mail_color"
+				android:layout_marginLeft="37dp"
+				android:layout_marginTop="478dp"
+				android:layout_width="73dp"
+				android:layout_height="29dp"
+				android:text="@string/senha_string"
+				 />
+
+			<View   android:id="@+id/rectangle_16"
+				android:background="@drawable/rectangle_16_shape"
+				 android:layout_marginStart="22dp"
+				android:layout_marginTop="540dp"
+				android:layout_width="307dp"
+				android:layout_height="53dp" />
+
+			<TextView android:id="@+id/criar_minha_conta"
+				android:fontFamily="Roboto"
+				android:textSize="20sp"
+				android:textColor="@color/_bg__cadastro_1_color"
+				android:layout_marginLeft="96dp"
+				android:layout_marginTop="557dp"
+				android:layout_width="175dp"
+				android:layout_height="29dp"
+				android:text="@string/criar_minha_conta_string"
+				 />
+
+			<TextView android:id="@+id/j__tenho_uma_conta_"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/e_mail_color"
+				android:layout_marginLeft="100dp"
+				android:layout_marginTop="743dp"
+				android:layout_width="180.8dp"
+				android:layout_height="26.8dp"
+				android:text="@string/j__tenho_uma_conta__string"
+				 />
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

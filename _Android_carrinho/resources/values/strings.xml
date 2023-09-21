@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- carrinho strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="carrinho_de_compras_string">Carrinho de Compras</string>
+	<string name="_02_x_r__15_00_string">02 x R$ 15,00</string>
+	<string name="_02_x_r__15_00_ek1_string">02 x R$ 15,00</string>
+	<string name="_02_x_r__15_00_ek2_string">02 x R$ 15,00</string>
+	<string name="tomate_picado_string">Tomate Picado</string>
+	<string name="r__30_00_string">R$ 30,00</string>
+	<string name="subtotal_string">Subtotal</string>
+	<string name="r__90_00_string">R$ 90,00</string>
+	<string name="taxa_de_entrega_string">Taxa de entrega</string>
+	<string name="r__5_00_string">R$ 5,00</string>
+	<string name="valor_total_string">Valor Total</string>
+	<string name="_95_00_string">95,00</string>
+	<string name="r__rua_1__numero_36__bairro____londrina___pr_string">R: Rua 1, numero 36, Bairro... Londrina - PR</string>
+	<string name="endere_o_de_entrega_string">Endereo de Entrega</string>
+	<string name="finalizar_pedido_string">FINALIZAR PEDIDO</string>
+	<string name="cebola_picada_string">Cebola Picada</string>
+	<string name="r__30_00_ek1_string">R$ 30,00</string>
+	<string name="cebolinha_picada_string">Cebolinha Picada</string>
+	<string name="r__30_00_ek2_string">R$ 30,00</string>
+</resources>

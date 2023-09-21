@@ -1,0 +1,331 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		carrinho
+	 *	@date 		Thursday 21st of September 2023 01:24:35 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/carrinho" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<View   android:id="@+id/_bg__carrinho"
+				android:background="@drawable/_bg__carrinho_shape"
+				 android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="360dp"
+				android:layout_height="800dp" />
+
+			<TextView android:id="@+id/carrinho_de_compras"
+				android:fontFamily="Roboto"
+				android:textSize="22sp"
+				android:textColor="@color/carrinho_de_compras_color"
+				android:layout_marginLeft="87dp"
+				android:layout_marginTop="25dp"
+				android:layout_width="242.2dp"
+				android:layout_height="32.2dp"
+				android:text="@string/carrinho_de_compras_string"
+				 />
+
+			<TextView android:id="@+id/_02_x_r__15_00"
+				android:fontFamily="Roboto"
+				android:textSize="14sp"
+				android:textColor="@color/_02_x_r__15_00_color"
+				android:layout_marginLeft="113dp"
+				android:layout_marginTop="121dp"
+				android:layout_width="126.4dp"
+				android:layout_height="26.4dp"
+				android:text="@string/_02_x_r__15_00_string"
+				 />
+
+			<TextView android:id="@+id/_02_x_r__15_00_ek1"
+				android:fontFamily="Roboto"
+				android:textSize="14sp"
+				android:textColor="@color/_02_x_r__15_00_color"
+				android:layout_marginLeft="113dp"
+				android:layout_marginTop="211dp"
+				android:layout_width="126.4dp"
+				android:layout_height="26.4dp"
+				android:text="@string/_02_x_r__15_00_ek1_string"
+				 />
+
+			<TextView android:id="@+id/_02_x_r__15_00_ek2"
+				android:fontFamily="Roboto"
+				android:textSize="14sp"
+				android:textColor="@color/_02_x_r__15_00_color"
+				android:layout_marginLeft="113dp"
+				android:layout_marginTop="311dp"
+				android:layout_width="126.4dp"
+				android:layout_height="26.4dp"
+				android:text="@string/_02_x_r__15_00_ek2_string"
+				 />
+
+			<TextView android:id="@+id/tomate_picado"
+				android:fontFamily="Roboto"
+				android:textSize="14sp"
+				android:textColor="@color/tomate_picado_color"
+				android:layout_marginLeft="108dp"
+				android:layout_marginTop="101dp"
+				android:layout_width="113.4dp"
+				android:layout_height="20.4dp"
+				android:text="@string/tomate_picado_string"
+				 />
+
+			<TextView android:id="@+id/r__30_00"
+				android:fontFamily="Roboto"
+				android:layout_gravity="center_vertical|end"
+				android:gravity="end"
+				android:textSize="14sp"
+				android:textColor="@color/tomate_picado_color"
+				android:layout_marginLeft="273dp"
+				android:layout_marginTop="98dp"
+				android:layout_width="71.4dp"
+				android:layout_height="20.4dp"
+				android:text="@string/r__30_00_string"
+				 />
+
+			<ImageView android:id="@+id/menu_1"
+				android:src="@drawable/menu_1"
+				android:contentDescription="menu_1"
+				 android:layout_marginStart="13dp"
+				android:layout_marginTop="11dp"
+				android:layout_width="45dp"
+				android:layout_height="53dp" />
+
+			<View   android:id="@+id/line_1"
+				android:background="@drawable/line_1_shape"
+				 android:layout_marginStart="4dp"
+				android:layout_marginTop="77dp"
+				android:layout_width="351dp"
+				android:layout_height="1dp" />
+
+			<View   android:id="@+id/line_2"
+				android:background="@drawable/line_2_shape"
+				 android:layout_marginStart="4dp"
+				android:layout_marginTop="167dp"
+				android:layout_width="351dp"
+				android:layout_height="1dp" />
+
+			<View   android:id="@+id/line_3"
+				android:background="@drawable/line_3_shape"
+				 android:layout_marginStart="4dp"
+				android:layout_marginTop="262dp"
+				android:layout_width="351dp"
+				android:layout_height="1dp" />
+
+			<TextView android:id="@+id/subtotal"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/tomate_picado_color"
+				android:layout_marginLeft="23dp"
+				android:layout_marginTop="383dp"
+				android:layout_width="128.8dp"
+				android:layout_height="26.8dp"
+				android:text="@string/subtotal_string"
+				 />
+
+			<TextView android:id="@+id/r__90_00"
+				android:fontFamily="Roboto"
+				android:layout_gravity="center_vertical|end"
+				android:gravity="end"
+				android:textSize="18sp"
+				android:textColor="@color/tomate_picado_color"
+				android:layout_marginLeft="223dp"
+				android:layout_marginTop="383dp"
+				android:layout_width="121dp"
+				android:layout_height="26.8dp"
+				android:text="@string/r__90_00_string"
+				 />
+
+			<TextView android:id="@+id/taxa_de_entrega"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/tomate_picado_color"
+				android:layout_marginLeft="23dp"
+				android:layout_marginTop="423dp"
+				android:layout_width="150.8dp"
+				android:layout_height="26.8dp"
+				android:text="@string/taxa_de_entrega_string"
+				 />
+
+			<TextView android:id="@+id/r__5_00"
+				android:fontFamily="Roboto"
+				android:layout_gravity="center_vertical|end"
+				android:gravity="end"
+				android:textSize="18sp"
+				android:textColor="@color/tomate_picado_color"
+				android:layout_marginLeft="223dp"
+				android:layout_marginTop="423dp"
+				android:layout_width="121dp"
+				android:layout_height="26.8dp"
+				android:text="@string/r__5_00_string"
+				 />
+
+			<TextView android:id="@+id/valor_total"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/tomate_picado_color"
+				android:layout_marginLeft="23dp"
+				android:layout_marginTop="463dp"
+				android:layout_width="128.8dp"
+				android:layout_height="26.8dp"
+				android:text="@string/valor_total_string"
+				 />
+
+			<TextView android:id="@+id/_95_00"
+				android:fontFamily="Roboto"
+				android:layout_gravity="center_vertical|end"
+				android:gravity="end"
+				android:textSize="18sp"
+				android:textColor="@color/tomate_picado_color"
+				android:layout_marginLeft="223dp"
+				android:layout_marginTop="463dp"
+				android:layout_width="121dp"
+				android:layout_height="26.8dp"
+				android:text="@string/_95_00_string"
+				 />
+
+			<View   android:id="@+id/line_4"
+				android:background="@drawable/line_4_shape"
+				 android:layout_marginStart="4dp"
+				android:layout_marginTop="359dp"
+				android:layout_width="351dp"
+				android:layout_height="1dp" />
+
+			<View   android:id="@+id/line_5"
+				android:background="@drawable/line_5_shape"
+				 android:layout_marginStart="4dp"
+				android:layout_marginTop="539dp"
+				android:layout_width="351dp"
+				android:layout_height="1dp" />
+
+			<TextView android:id="@+id/r__rua_1__numero_36__bairro____londrina___pr"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/_02_x_r__15_00_color"
+				android:layout_marginLeft="13dp"
+				android:layout_marginTop="605dp"
+				android:layout_width="357.8dp"
+				android:layout_height="31.8dp"
+				android:text="@string/r__rua_1__numero_36__bairro____londrina___pr_string"
+				 />
+
+			<TextView android:id="@+id/endere_o_de_entrega"
+				android:fontFamily="Roboto"
+				android:textSize="22sp"
+				android:textColor="@color/carrinho_de_compras_color"
+				android:layout_marginLeft="13dp"
+				android:layout_marginTop="573dp"
+				android:layout_width="236.2dp"
+				android:layout_height="34.2dp"
+				android:text="@string/endere_o_de_entrega_string"
+				 />
+
+			<View   android:id="@+id/rectangle_19"
+				android:background="@drawable/rectangle_19_shape"
+				 android:layout_marginStart="49dp"
+				android:layout_marginTop="675dp"
+				android:layout_width="242dp"
+				android:layout_height="53dp" />
+
+			<TextView android:id="@+id/finalizar_pedido"
+				android:fontFamily="Roboto"
+				android:textSize="22sp"
+				android:textColor="@color/_bg__carrinho_color"
+				android:layout_marginLeft="84dp"
+				android:layout_marginTop="690dp"
+				android:layout_width="255.2dp"
+				android:layout_height="32.2dp"
+				android:text="@string/finalizar_pedido_string"
+				 />
+
+			<ImageView android:id="@+id/sem_t_tulo_2"
+				android:src="@drawable/sem_t_tulo_2"
+				android:contentDescription="sem_t_tulo_2"
+				 android:layout_marginStart="13dp"
+				android:layout_marginTop="86dp"
+				android:layout_width="82dp"
+				android:layout_height="62dp" />
+
+			<TextView android:id="@+id/cebola_picada"
+				android:fontFamily="Roboto"
+				android:textSize="14sp"
+				android:textColor="@color/tomate_picado_color"
+				android:layout_marginLeft="108dp"
+				android:layout_marginTop="195dp"
+				android:layout_width="113.4dp"
+				android:layout_height="20.4dp"
+				android:text="@string/cebola_picada_string"
+				 />
+
+			<TextView android:id="@+id/r__30_00_ek1"
+				android:fontFamily="Roboto"
+				android:layout_gravity="center_vertical|end"
+				android:gravity="end"
+				android:textSize="14sp"
+				android:textColor="@color/tomate_picado_color"
+				android:layout_marginLeft="273dp"
+				android:layout_marginTop="192dp"
+				android:layout_width="71.4dp"
+				android:layout_height="20.4dp"
+				android:text="@string/r__30_00_ek1_string"
+				 />
+
+			<TextView android:id="@+id/cebolinha_picada"
+				android:fontFamily="Roboto"
+				android:textSize="14sp"
+				android:textColor="@color/tomate_picado_color"
+				android:layout_marginLeft="108dp"
+				android:layout_marginTop="290dp"
+				android:layout_width="139.4dp"
+				android:layout_height="17.4dp"
+				android:text="@string/cebolinha_picada_string"
+				 />
+
+			<TextView android:id="@+id/r__30_00_ek2"
+				android:fontFamily="Roboto"
+				android:layout_gravity="center_vertical|end"
+				android:gravity="end"
+				android:textSize="14sp"
+				android:textColor="@color/tomate_picado_color"
+				android:layout_marginLeft="273dp"
+				android:layout_marginTop="287dp"
+				android:layout_width="71.4dp"
+				android:layout_height="20.4dp"
+				android:text="@string/r__30_00_ek2_string"
+				 />
+
+			<ImageView android:id="@+id/cebola_picada_3"
+				android:src="@drawable/cebola_picada_3"
+				android:contentDescription="cebola_picada_3"
+				 android:layout_marginStart="13dp"
+				android:layout_marginTop="178dp"
+				android:layout_width="82dp"
+				android:layout_height="62dp" />
+
+			<ImageView android:id="@+id/cebolinha_picada_2"
+				android:src="@drawable/cebolinha_picada_2"
+				android:contentDescription="cebolinha_picada_2"
+				 android:layout_marginStart="11dp"
+				android:layout_marginTop="274dp"
+				android:layout_width="83dp"
+				android:layout_height="59dp" />
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

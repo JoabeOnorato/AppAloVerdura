@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- cadastro_1 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="criar_nova_conta__string">Criar nova conta.</string>
+	<string name="e_mail_string">E-mail</string>
+	<string name="nome_string">Nome</string>
+	<string name="passo_1_de_2_string">Passo 1 de 2</string>
+	<string name="senha_string">Senha</string>
+	<string name="criar_minha_conta_string">Criar minha conta</string>
+	<string name="j__tenho_uma_conta__string">J tenho uma conta.</string>
+</resources>

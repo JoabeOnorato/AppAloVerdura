@@ -1,0 +1,127 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		tela_inicial
+	 *	@date 		Thursday 21st of September 2023 12:43:25 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/tela_inicial" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<View   android:id="@+id/_bg__tela_inicial"
+				android:background="@drawable/_bg__tela_inicial_shape"
+				 android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="360dp"
+				android:layout_height="800dp" />
+
+			<View   android:id="@+id/logo2_2"
+				android:background="@drawable/logo2_2_shape"
+				 android:layout_marginStart="53dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="254dp"
+				android:layout_height="56.44dp" />
+
+			<TextView android:id="@+id/acesse_sua_conta_"
+				android:fontFamily="Roboto"
+				android:textSize="22sp"
+				android:textColor="@color/acesse_sua_conta__color"
+				android:layout_marginLeft="91dp"
+				android:layout_marginTop="256dp"
+				android:layout_width="198.2dp"
+				android:layout_height="32.2dp"
+				android:text="@string/acesse_sua_conta__string"
+				 />
+
+			<View   android:id="@+id/rectangle_5"
+				android:background="@drawable/rectangle_5_shape"
+				 android:layout_marginStart="27dp"
+				android:layout_marginTop="307dp"
+				android:layout_width="307dp"
+				android:layout_height="53dp" />
+
+			<TextView android:id="@+id/e_mail"
+				android:fontFamily="Roboto"
+				android:textSize="20sp"
+				android:textColor="@color/e_mail_color"
+				android:layout_marginLeft="43dp"
+				android:layout_marginTop="324dp"
+				android:layout_width="73dp"
+				android:layout_height="29dp"
+				android:text="@string/e_mail_string"
+				 />
+
+			<View   android:id="@+id/rectangle_6"
+				android:background="@drawable/rectangle_6_shape"
+				 android:layout_marginStart="26dp"
+				android:layout_marginTop="386dp"
+				android:layout_width="307dp"
+				android:layout_height="53dp" />
+
+			<TextView android:id="@+id/senha"
+				android:fontFamily="Roboto"
+				android:textSize="20sp"
+				android:textColor="@color/e_mail_color"
+				android:layout_marginLeft="42dp"
+				android:layout_marginTop="403dp"
+				android:layout_width="73dp"
+				android:layout_height="29dp"
+				android:text="@string/senha_string"
+				 />
+
+			<View   android:id="@+id/rectangle_7"
+				android:background="@drawable/rectangle_7_shape"
+				 android:layout_marginStart="27dp"
+				android:layout_marginTop="464dp"
+				android:layout_width="307dp"
+				android:layout_height="53dp" />
+
+			<TextView android:id="@+id/acessar"
+				android:fontFamily="Roboto"
+				android:textSize="20sp"
+				android:textColor="@color/_bg__tela_inicial_color"
+				android:layout_marginLeft="144dp"
+				android:layout_marginTop="482dp"
+				android:layout_width="90dp"
+				android:layout_height="29dp"
+				android:text="@string/acessar_string"
+				 />
+
+			<ImageView android:id="@+id/tomate_1"
+				android:src="@drawable/tomate_1"
+				android:contentDescription="tomate_1"
+				 android:layout_marginStart="26dp"
+				android:layout_marginTop="6dp"
+				android:layout_width="297dp"
+				android:layout_height="50dp" />
+
+			<TextView android:id="@+id/ainda_n_o_tem_uma_conta__crie_agora_"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/e_mail_color"
+				android:layout_marginLeft="27dp"
+				android:layout_marginTop="743dp"
+				android:layout_width="321.8dp"
+				android:layout_height="26.8dp"
+				android:text="@string/ainda_n_o_tem_uma_conta__crie_agora__string"
+				 />
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

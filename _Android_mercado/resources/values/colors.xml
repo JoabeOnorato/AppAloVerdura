@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- mercado colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+
+	<color name="_bg__mercado_color">#FFFFFF</color>
+	<color name="compras_color">#000000</color>
+	<color name="pesquisar_produto____color">#8F8F8F</color>
+	<color name="r__15_00_color">#64BA01</color>
+	<color name="piment_o_picado_color">#3A3A3A</color>
+	<color name="rectangle_11_color">#45BE31</color>
+	<color name="line_1_color">#B8B8B8</color>
+</resources>

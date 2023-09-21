@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- mercado strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="compras_string">Compras</string>
+	<string name="pesquisar_produto____string">Pesquisar produto...</string>
+	<string name="_500g_string">500g</string>
+	<string name="r__15_00_string">R$ 15,00</string>
+	<string name="piment_o_picado_string">Pimento Picado</string>
+	<string name="_500g_ek1_string">500g</string>
+	<string name="r__15_00_ek1_string">R$ 15,00</string>
+	<string name="tomate_picado_string">Tomate Picado</string>
+	<string name="_500g_ek2_string">500g</string>
+	<string name="r__15_00_ek2_string">R$ 15,00</string>
+	<string name="batata_picada_string">Batata Picada</string>
+	<string name="_500g_ek3_string">500g</string>
+	<string name="r__15_00_ek3_string">R$ 15,00</string>
+	<string name="cebolinha_picada_string">Cebolinha Picada</string>
+	<string name="_500g_ek4_string">500g</string>
+	<string name="r__15_00_ek4_string">R$ 15,00</string>
+	<string name="cebola_picada_string">Cebola Picada</string>
+	<string name="_500g_ek5_string">500g</string>
+	<string name="r__15_00_ek5_string">R$ 15,00</string>
+	<string name="cenoura_picada_string">Cenoura Picada</string>
+	<string name="buscar_string">Buscar</string>
+</resources>

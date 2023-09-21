@@ -1,0 +1,380 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		mercado
+	 *	@date 		Thursday 21st of September 2023 01:24:47 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/mercado" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<View   android:id="@+id/_bg__mercado"
+				android:background="@drawable/_bg__mercado_shape"
+				 android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="360dp"
+				android:layout_height="800dp" />
+
+			<ImageView android:id="@+id/cebolinha_picada_1"
+				android:src="@drawable/cebolinha_picada_1"
+				android:contentDescription="cebolinha_picada_1"
+				 android:layout_marginStart="19dp"
+				android:layout_marginTop="590dp"
+				android:layout_width="147dp"
+				android:layout_height="85dp" />
+
+			<TextView android:id="@+id/compras"
+				android:fontFamily="Roboto"
+				android:textSize="22sp"
+				android:textColor="@color/compras_color"
+				android:layout_marginLeft="132dp"
+				android:layout_marginTop="13dp"
+				android:layout_width="130.2dp"
+				android:layout_height="32.2dp"
+				android:text="@string/compras_string"
+				 />
+
+			<View   android:id="@+id/rectangle_8"
+				android:background="@drawable/rectangle_8_shape"
+				 android:layout_marginStart="19dp"
+				android:layout_marginTop="91dp"
+				android:layout_width="327dp"
+				android:layout_height="53dp" />
+
+			<TextView android:id="@+id/pesquisar_produto___"
+				android:fontFamily="Roboto"
+				android:textSize="20sp"
+				android:textColor="@color/pesquisar_produto____color"
+				android:layout_marginLeft="73dp"
+				android:layout_marginTop="107dp"
+				android:layout_width="224dp"
+				android:layout_height="29dp"
+				android:text="@string/pesquisar_produto____string"
+				 />
+
+			<TextView android:id="@+id/_500g"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/pesquisar_produto____color"
+				android:layout_marginLeft="243dp"
+				android:layout_marginTop="321dp"
+				android:layout_width="81.8dp"
+				android:layout_height="26.8dp"
+				android:text="@string/_500g_string"
+				 />
+
+			<TextView android:id="@+id/r__15_00"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/r__15_00_color"
+				android:layout_marginLeft="231dp"
+				android:layout_marginTop="303dp"
+				android:layout_width="97.8dp"
+				android:layout_height="26.8dp"
+				android:text="@string/r__15_00_string"
+				 />
+
+			<TextView android:id="@+id/piment_o_picado"
+				android:fontFamily="Roboto"
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="18sp"
+				android:textColor="@color/piment_o_picado_color"
+				android:layout_marginLeft="201dp"
+				android:layout_marginTop="273dp"
+				android:layout_width="151dp"
+				android:layout_height="21.8dp"
+				android:text="@string/piment_o_picado_string"
+				 />
+
+			<TextView android:id="@+id/_500g_ek1"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/pesquisar_produto____color"
+				android:layout_marginLeft="61dp"
+				android:layout_marginTop="321dp"
+				android:layout_width="81.8dp"
+				android:layout_height="26.8dp"
+				android:text="@string/_500g_ek1_string"
+				 />
+
+			<TextView android:id="@+id/r__15_00_ek1"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/r__15_00_color"
+				android:layout_marginLeft="49dp"
+				android:layout_marginTop="303dp"
+				android:layout_width="97.8dp"
+				android:layout_height="26.8dp"
+				android:text="@string/r__15_00_ek1_string"
+				 />
+
+			<TextView android:id="@+id/tomate_picado"
+				android:fontFamily="Roboto"
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="18sp"
+				android:textColor="@color/piment_o_picado_color"
+				android:layout_marginLeft="19dp"
+				android:layout_marginTop="273dp"
+				android:layout_width="151dp"
+				android:layout_height="21.8dp"
+				android:text="@string/tomate_picado_string"
+				 />
+
+			<TextView android:id="@+id/_500g_ek2"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/pesquisar_produto____color"
+				android:layout_marginLeft="233dp"
+				android:layout_marginTop="732dp"
+				android:layout_width="81.8dp"
+				android:layout_height="26.8dp"
+				android:text="@string/_500g_ek2_string"
+				 />
+
+			<TextView android:id="@+id/r__15_00_ek2"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/r__15_00_color"
+				android:layout_marginLeft="221dp"
+				android:layout_marginTop="714dp"
+				android:layout_width="97.8dp"
+				android:layout_height="26.8dp"
+				android:text="@string/r__15_00_ek2_string"
+				 />
+
+			<TextView android:id="@+id/batata_picada"
+				android:fontFamily="Roboto"
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="18sp"
+				android:textColor="@color/piment_o_picado_color"
+				android:layout_marginLeft="191dp"
+				android:layout_marginTop="684dp"
+				android:layout_width="151dp"
+				android:layout_height="21.8dp"
+				android:text="@string/batata_picada_string"
+				 />
+
+			<TextView android:id="@+id/_500g_ek3"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/pesquisar_produto____color"
+				android:layout_marginLeft="61dp"
+				android:layout_marginTop="732dp"
+				android:layout_width="81.8dp"
+				android:layout_height="26.8dp"
+				android:text="@string/_500g_ek3_string"
+				 />
+
+			<TextView android:id="@+id/r__15_00_ek3"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/r__15_00_color"
+				android:layout_marginLeft="49dp"
+				android:layout_marginTop="714dp"
+				android:layout_width="97.8dp"
+				android:layout_height="26.8dp"
+				android:text="@string/r__15_00_ek3_string"
+				 />
+
+			<TextView android:id="@+id/cebolinha_picada"
+				android:fontFamily="Roboto"
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="18sp"
+				android:textColor="@color/piment_o_picado_color"
+				android:layout_marginLeft="19dp"
+				android:layout_marginTop="684dp"
+				android:layout_width="151dp"
+				android:layout_height="21.8dp"
+				android:text="@string/cebolinha_picada_string"
+				 />
+
+			<TextView android:id="@+id/_500g_ek4"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/pesquisar_produto____color"
+				android:layout_marginLeft="51dp"
+				android:layout_marginTop="524dp"
+				android:layout_width="81.8dp"
+				android:layout_height="26.8dp"
+				android:text="@string/_500g_ek4_string"
+				 />
+
+			<TextView android:id="@+id/r__15_00_ek4"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/r__15_00_color"
+				android:layout_marginLeft="39dp"
+				android:layout_marginTop="506dp"
+				android:layout_width="97.8dp"
+				android:layout_height="26.8dp"
+				android:text="@string/r__15_00_ek4_string"
+				 />
+
+			<TextView android:id="@+id/cebola_picada"
+				android:fontFamily="Roboto"
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="18sp"
+				android:textColor="@color/piment_o_picado_color"
+				android:layout_marginLeft="9dp"
+				android:layout_marginTop="476dp"
+				android:layout_width="151dp"
+				android:layout_height="21.8dp"
+				android:text="@string/cebola_picada_string"
+				 />
+
+			<TextView android:id="@+id/_500g_ek5"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/pesquisar_produto____color"
+				android:layout_marginLeft="239dp"
+				android:layout_marginTop="524dp"
+				android:layout_width="81.8dp"
+				android:layout_height="26.8dp"
+				android:text="@string/_500g_ek5_string"
+				 />
+
+			<TextView android:id="@+id/r__15_00_ek5"
+				android:fontFamily="Roboto"
+				android:textSize="18sp"
+				android:textColor="@color/r__15_00_color"
+				android:layout_marginLeft="227dp"
+				android:layout_marginTop="506dp"
+				android:layout_width="97.8dp"
+				android:layout_height="26.8dp"
+				android:text="@string/r__15_00_ek5_string"
+				 />
+
+			<TextView android:id="@+id/cenoura_picada"
+				android:fontFamily="Roboto"
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="18sp"
+				android:textColor="@color/piment_o_picado_color"
+				android:layout_marginLeft="197dp"
+				android:layout_marginTop="476dp"
+				android:layout_width="151dp"
+				android:layout_height="21.8dp"
+				android:text="@string/cenoura_picada_string"
+				 />
+
+			<View   android:id="@+id/rectangle_11"
+				android:background="@drawable/rectangle_11_shape"
+				 android:layout_marginStart="275dp"
+				android:layout_marginTop="91dp"
+				android:layout_width="71dp"
+				android:layout_height="53dp" />
+
+			<TextView android:id="@+id/buscar"
+				android:fontFamily="Roboto"
+				android:textSize="16sp"
+				android:textColor="@color/_bg__mercado_color"
+				android:layout_marginLeft="286dp"
+				android:layout_marginTop="110dp"
+				android:layout_width="76.6dp"
+				android:layout_height="23.6dp"
+				android:text="@string/buscar_string"
+				 />
+
+			<ImageView android:id="@+id/menu_1"
+				android:src="@drawable/menu_1"
+				android:contentDescription="menu_1"
+				 android:layout_marginStart="12dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="46dp"
+				android:layout_height="53dp" />
+
+			<ImageView android:id="@+id/search_1"
+				android:src="@drawable/search_1"
+				android:contentDescription="search_1"
+				 android:layout_marginStart="30dp"
+				android:layout_marginTop="99dp"
+				android:layout_width="31dp"
+				android:layout_height="36dp" />
+
+			<View   android:id="@+id/line_1"
+				android:background="@drawable/line_1_shape"
+				 android:layout_marginStart="0dp"
+				android:layout_marginTop="161dp"
+				android:layout_width="360dp"
+				android:layout_height="1dp" />
+
+			<ImageView android:id="@+id/sem_t_tulo_1"
+				android:src="@drawable/sem_t_tulo_1"
+				android:contentDescription="sem_t_tulo_1"
+				 android:layout_marginStart="17dp"
+				android:layout_marginTop="171dp"
+				android:layout_width="134dp"
+				android:layout_height="89dp" />
+
+			<ImageView android:id="@+id/pimentao_picado_1"
+				android:src="@drawable/pimentao_picado_1"
+				android:contentDescription="pimentao_picado_1"
+				 android:layout_marginStart="204dp"
+				android:layout_marginTop="171dp"
+				android:layout_width="135dp"
+				android:layout_height="93dp" />
+
+			<ImageView android:id="@+id/cenoura_picada_1"
+				android:src="@drawable/cenoura_picada_1"
+				android:contentDescription="cenoura_picada_1"
+				 android:layout_marginStart="204dp"
+				android:layout_marginTop="381dp"
+				android:layout_width="135dp"
+				android:layout_height="90dp" />
+
+			<ImageView android:id="@+id/cebola_picada_1"
+				android:src="@drawable/cebola_picada_1"
+				android:contentDescription="cebola_picada_1"
+				 android:layout_marginStart="19dp"
+				android:layout_marginTop="378dp"
+				android:layout_width="132dp"
+				android:layout_height="88dp" />
+
+			<ImageView android:id="@+id/cenoura_picada_3"
+				android:src="@drawable/cenoura_picada_3"
+				android:contentDescription="cenoura_picada_3"
+				 android:layout_marginStart="204dp"
+				android:layout_marginTop="381dp"
+				android:layout_width="135dp"
+				android:layout_height="90dp" />
+
+			<ImageView android:id="@+id/cebola_picada_2"
+				android:src="@drawable/cebola_picada_2"
+				android:contentDescription="cebola_picada_2"
+				 android:layout_marginStart="19dp"
+				android:layout_marginTop="378dp"
+				android:layout_width="132dp"
+				android:layout_height="88dp" />
+
+			<ImageView android:id="@+id/batata_picada_1"
+				android:src="@drawable/batata_picada_1"
+				android:contentDescription="batata_picada_1"
+				 android:layout_marginStart="194dp"
+				android:layout_marginTop="590dp"
+				android:layout_width="147dp"
+				android:layout_height="85dp" />
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
