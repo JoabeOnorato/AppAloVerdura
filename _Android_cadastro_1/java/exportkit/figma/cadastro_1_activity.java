@@ -41,6 +41,7 @@ public class cadastro_1_activity extends Activity {
 	private View rectangle_16;
 	private TextView criar_minha_conta;
 	private TextView j__tenho_uma_conta_;
+	private boolean is_admin;
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
@@ -65,6 +66,12 @@ public class cadastro_1_activity extends Activity {
 	
 		
 		//custom code goes here
+		if(("Admin".equals(nome))){
+			is_admin = true;
+		}else{
+			is_admin = false;
+		}
+
 	
 	}
 }
