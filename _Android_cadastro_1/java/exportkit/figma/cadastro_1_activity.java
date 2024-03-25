@@ -65,12 +65,7 @@ public class cadastro_1_activity extends Activity {
 		j__tenho_uma_conta_ = (TextView) findViewById(R.id.j__tenho_uma_conta_);
 	
 		
-		//custom code goes here
-		if(("Admin".equals(nome))){
-			is_admin = true;
-		}else{
-			is_admin = false;
-		}
+		
 
 	
 	}
