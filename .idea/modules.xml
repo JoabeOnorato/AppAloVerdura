@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AppAloVerdura.iml" filepath="$PROJECT_DIR$/.idea/AppAloVerdura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Android_cadastro_1/_Android_cadastro_1.iml" filepath="$PROJECT_DIR$/_Android_cadastro_1/_Android_cadastro_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Android_cadastro_2/_Android_cadastro_2.iml" filepath="$PROJECT_DIR$/_Android_cadastro_2/_Android_cadastro_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Android_carrinho/_Android_carrinho.iml" filepath="$PROJECT_DIR$/_Android_carrinho/_Android_carrinho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Android_descri__o/_Android_descri__o.iml" filepath="$PROJECT_DIR$/_Android_descri__o/_Android_descri__o.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Android_mercado/_Android_mercado.iml" filepath="$PROJECT_DIR$/_Android_mercado/_Android_mercado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Android_tela_de_carregamento/_Android_tela_de_carregamento.iml" filepath="$PROJECT_DIR$/_Android_tela_de_carregamento/_Android_tela_de_carregamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Android_tela_inicial/_Android_tela_inicial.iml" filepath="$PROJECT_DIR$/_Android_tela_inicial/_Android_tela_inicial.iml" />
+    </modules>
+  </component>
+</project>

@@ -40,6 +40,8 @@ public class tela_inicial_activity extends Activity {
 	private ImageView tomate_1;
 	private TextView ainda_n_o_tem_uma_conta__crie_agora_;
 
+	private TextView alertaLogin;
+
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 
